@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bestcrypto/static/css/main.e6279218.css",
+    "main.js": "/bestcrypto/static/js/main.0b1b5b4b.js",
+    "static/js/787.cbf48f9d.chunk.js": "/bestcrypto/static/js/787.cbf48f9d.chunk.js",
+    "static/media/f4.png": "/bestcrypto/static/media/f4.b5addfae2f8ad5bff7b9.png",
+    "static/media/ff4.png": "/bestcrypto/static/media/ff4.3e6276c90a3a9b67a08c.png",
+    "static/media/f7.png": "/bestcrypto/static/media/f7.fa1b33933db0c45a764b.png",
+    "static/media/ff8.png": "/bestcrypto/static/media/ff8.127d32820a6e58dd9954.png",
+    "static/media/ff6.png": "/bestcrypto/static/media/ff6.1a3d28058ff62500da13.png",
+    "static/media/ff3.png": "/bestcrypto/static/media/ff3.19e489fa483d0b6f0b59.png",
+    "static/media/ff1.png": "/bestcrypto/static/media/ff1.3bab69c21dc640f264ae.png",
+    "static/media/f5.png": "/bestcrypto/static/media/f5.42fd4b4d50de99b6a757.png",
+    "static/media/f1.png": "/bestcrypto/static/media/f1.dfe8008dc03d3ef5a306.png",
+    "static/media/f2.png": "/bestcrypto/static/media/f2.0eac44a5671ca54242bb.png",
+    "static/media/ff7.png": "/bestcrypto/static/media/ff7.96ad127b360cda4cb239.png",
+    "static/media/f8.png": "/bestcrypto/static/media/f8.626b3ab2668e1b00dbad.png",
+    "static/media/f6.png": "/bestcrypto/static/media/f6.937d1a56f45e9381c3f9.png",
+    "static/media/ff2.png": "/bestcrypto/static/media/ff2.9ae025160c3546c6c74d.png",
+    "static/media/cover.png": "/bestcrypto/static/media/cover.2871fc7e9fe5c5275a80.png",
+    "static/media/ff5.png": "/bestcrypto/static/media/ff5.d9cb4b96cc9806524111.png",
+    "index.html": "/bestcrypto/index.html",
+    "main.e6279218.css.map": "/bestcrypto/static/css/main.e6279218.css.map",
+    "main.0b1b5b4b.js.map": "/bestcrypto/static/js/main.0b1b5b4b.js.map",
+    "787.cbf48f9d.chunk.js.map": "/bestcrypto/static/js/787.cbf48f9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6279218.css",
+    "static/js/main.0b1b5b4b.js"
+  ]
+}
